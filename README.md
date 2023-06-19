@@ -30,15 +30,16 @@ My current favourite quote is "Stay Hungry" by Steve Jobs.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+<!---
 #
 
 ###	Stats
-
 ![jya0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jya0&show_icons=true&theme=gotham)
 
 #
+-->
 
-<details>
+[//]: <details>
 	<summary><h3>jya0's Overview</h3></summary>
 		2023 ->
 		A growth mindset and a mind who knows the value of deep work is what I strive to be.
