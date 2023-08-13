@@ -4,7 +4,7 @@
 
 A collaborative challenger who is eager to deliver software products of maximised quality. Able to lead and be led to devise innovative projects with disruptive IT tools to outpace competition.
 
-My current favourite quote is "Stay Hungry" by Steve Jobs.
+My current favourite quote is "Stay Hungry. Stay Foolish" by Steve Jobs.
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
