@@ -41,6 +41,6 @@ My current favourite quote is "Stay Hungry. Stay Foolish" by Steve Jobs.
 
 [//]: <details>
 	<summary><h3>jya0's Overview</h3></summary>
-		2023 ->
+		2024 ->
 		A growth mindset and a mind who knows the value of deep work is what I strive to be.
-		I love to read non-fictional books and fill in blindspots in my knowledge.
+		I love to fill in knowledge blindspots.
