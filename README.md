@@ -1,10 +1,10 @@
 # Jinxiu Yao
 
-**`Software Developer Student @42 Abu Dhabi`**
+**`Software Developer Who Came From @42 Abu Dhabi`**
 
-A collaborative challenger who is eager to deliver software products of maximised quality. Able to lead and be led to devise innovative projects with disruptive IT tools to outpace competition.
+A person eager to deliver software that solve a problem with good quality. Able to work in multi hat wearing teams to devise innovative solutions with disruptive IT tools.
 
-My current favourite quote is "Stay Hungry. Stay Foolish" by Steve Jobs.
+My favourite quote is "Stay Hungry. Stay Foolish" by Steve Jobs.
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
@@ -41,6 +41,8 @@ My current favourite quote is "Stay Hungry. Stay Foolish" by Steve Jobs.
 
 [//]: <details>
 	<summary><h3>jya0's Overview</h3></summary>
+		2025 ->
+		Still following growth mindset and deep work, and I love to learn to fill in knowledge blindspots.<br>
 		2024 ->
 		A growth mindset and a mind who knows the value of deep work is what I strive to be.
 		I love to fill in knowledge blindspots.
