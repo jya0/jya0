@@ -1,6 +1,6 @@
 # Jinxiu Yao
 
-**`Software Developer Who Came From @42 Abu Dhabi`**
+**`Software Developer From @42 Abu Dhabi`**
 
 A person eager to deliver software that solve a problem with good quality. Able to work in multi hat wearing teams to devise innovative solutions with disruptive IT tools.
 
